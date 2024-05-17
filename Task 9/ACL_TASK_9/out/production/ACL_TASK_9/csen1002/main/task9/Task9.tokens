@@ -1,0 +1,6 @@
+DIGIZERO=1
+DIGIONE=2
+HASHTAG=3
+'0'=1
+'1'=2
+'#'=3
